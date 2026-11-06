@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a7med-raafat.github.io/Ahmed_Raafat.qr/sitemap.xml
